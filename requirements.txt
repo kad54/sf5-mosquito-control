@@ -1,0 +1,5 @@
+# Verified core city-network workflow on Python 3.12.7.
+numpy==2.0.2
+pandas==2.2.3
+networkx==3.4.2
+matplotlib==3.9.2
